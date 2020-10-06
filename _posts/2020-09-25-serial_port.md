@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "JoYLink_ESP32 demo工程"
-categories: [embaded,IoT,Wi-Fi]
+title: "串口相关笔记"
+categories: [embaded]
 tags: [markdown]
 author:
   - Xiangyu Li
